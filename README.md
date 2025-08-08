@@ -1,18 +1,42 @@
-## Hi there 👋 I am Sanjuro Dev!
+# Olá, eu sou o Sanjuro Dev! 👋
 
-<!--
-**sanjuro-dev/sanjuro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor com foco em front-end, entusiasta de linguagens como Python e C, e sempre em busca de projetos que misturem criatividade e funcionalidade.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Repositórios em destaque
+
+- **web-portifolio** – Meu portfólio pessoal em HTML, CSS e JavaScript. Nele você verá meu estilo de desenvolvimento front-end em ação. :contentReference[oaicite:0]{index=0}  
+- **welcome-root** – Uma animação vibrante criada em Python, exibida após o processo de “rooting”. :contentReference[oaicite:1]{index=1}  
+- **Exercicios-C-Unesp** – Repositório com soluções em C para exercícios desenvolvidos durante meu curso de Sistemas de Informação na UNESP. :contentReference[oaicite:2]{index=2}  
+- **tabela-despesas** – Um app simples em Python para registrar despesas mensais, com categorização e visualização de gráficos. :contentReference[oaicite:3]{index=3}  
+
+---
+
+## Tecnologias que utilizo
+
+- **Front‑end**: HTML, CSS, JavaScript  
+- **Back‑end / Scripting**: Python, C  
+
+---
+
+## Como me encontrar
+
+- Se quiser bater um papo, colaborar em projetos ou me contratar, é só entrar em contato!  
+- Este é o meu Email: anpgigo@gmail.com
+
+---
+
+## Sobre mim
+
+Curti explorar diferentes linguagens e estilos. Também estou sempre aprendendo‑e‑praticando—sempre tem algo novo pra codar, não é?
+
+<!-- Aqui, você pode adicionar coisas como: == meus interesses pessoais, contribuição open-source, redes sociais, certificados, ou o que mais desejar. -->
+
+---
+
+**Obrigado pela visita!**
+
 -->
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/78e67172-8951-49ef-91b1-f60f15e31274)
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">

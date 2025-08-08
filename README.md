@@ -6,10 +6,10 @@ Sou desenvolvedor com foco em front-end, entusiasta de linguagens como Python e 
 
 ## Repositórios em destaque
 
-- **web-portifolio** – Meu portfólio pessoal em HTML, CSS e JavaScript. Nele você verá meu estilo de desenvolvimento front-end em ação. :contentReference[oaicite:0]{index=0}  
-- **welcome-root** – Uma animação vibrante criada em Python, exibida após o processo de “rooting”. :contentReference[oaicite:1]{index=1}  
-- **Exercicios-C-Unesp** – Repositório com soluções em C para exercícios desenvolvidos durante meu curso de Sistemas de Informação na UNESP. :contentReference[oaicite:2]{index=2}  
-- **tabela-despesas** – Um app simples em Python para registrar despesas mensais, com categorização e visualização de gráficos. :contentReference[oaicite:3]{index=3}  
+- **web-portifolio** – Meu portfólio pessoal em HTML, CSS e JavaScript. Nele você verá meu estilo de desenvolvimento front-end em ação.  
+- **welcome-root** – Uma animação vibrante criada em Python, exibida após o processo de “rooting”. 
+- **Exercicios-C-Unesp** – Repositório com soluções em C para exercícios desenvolvidos durante meu curso de Sistemas de Informação na UNESP.   
+- **tabela-despesas** – Um app simples em Python para registrar despesas mensais, com categorização e visualização de gráficos. 
 
 ---
 

@@ -1,4 +1,4 @@
-Nenem, aqui está a versão em inglês, profissional e direta:
+
 
 ---
 

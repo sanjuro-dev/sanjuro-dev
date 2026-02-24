@@ -1,42 +1,31 @@
-# Olá, eu sou o Sanjuro Dev! 👋
-
-Sou desenvolvedor com foco em front-end, entusiasta de linguagens como Python e C, e sempre em busca de projetos que misturem criatividade e funcionalidade.
+Nenem, aqui está a versão em inglês, profissional e direta:
 
 ---
 
-## Repositórios em destaque
+# Hi, I’m Sanjuro Dev
 
-- **web-portifolio** – Meu portfólio pessoal em HTML, CSS e JavaScript. Nele você verá meu estilo de desenvolvimento front-end em ação.  
-- **welcome-root** – Uma animação vibrante criada em Python, exibida após o processo de “rooting”. 
-- **Exercicios-C-Unesp** – Repositório com soluções em C para exercícios desenvolvidos durante meu curso de Sistemas de Informação na UNESP.   
-- **tabela-despesas** – Um app simples em Python para registrar despesas mensais, com categorização e visualização de gráficos. 
+Front-end focused developer passionate about turning ideas into clean, functional, and well-structured interfaces. I also work with Python and C, always aiming to combine logic, organization, and creativity in my projects.
 
----
+## Technologies
 
-## Tecnologias que utilizo
-
-- **Front‑end**: HTML, CSS, JavaScript  
-- **Back‑end / Scripting**: Python, C  
+Front-end: HTML, CSS, JavaScript
+Back-end / Scripting: Python, C
 
 ---
 
-## Como me encontrar
-
-- Se quiser bater um papo, colaborar em projetos ou me contratar, é só entrar em contato!  
-- Este é o meu Email: anpgigo@gmail.com
+## Contact
+Email: [anpgigo@gmail.com](mailto:anpgigo@gmail.com)
 
 ---
 
-## Sobre mim
+## About Me
 
-Curti explorar diferentes linguagens e estilos. Também estou sempre aprendendo‑e‑praticando—sempre tem algo novo pra codar, não é?
+I enjoy exploring different languages, testing new ideas, and continuously improving as a developer. For me, programming is about solving problems and building meaningful experiences.
 
-<!-- Aqui, você pode adicionar coisas como: == meus interesses pessoais, contribuição open-source, redes sociais, certificados, ou o que mais desejar. -->
+If you want, I can make it more technical or more recruiter-oriented.
+
 
 ---
-
-**Obrigado pela visita!**
-
 -->
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/78e67172-8951-49ef-91b1-f60f15e31274)
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">

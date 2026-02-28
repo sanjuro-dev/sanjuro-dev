@@ -22,8 +22,6 @@ Email: [anpgigo@gmail.com](mailto:anpgigo@gmail.com)
 
 I enjoy exploring different languages, testing new ideas, and continuously improving as a developer. For me, programming is about solving problems and building meaningful experiences.
 
-If you want, I can make it more technical or more recruiter-oriented.
-
 
 ---
 -->

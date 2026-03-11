@@ -4,7 +4,7 @@
 
 # Hi, I’m Sanjuro Dev
 
-Front-end focused developer passionate about turning ideas into clean, functional, and well-structured interfaces. I also work with Python and C, always aiming to combine logic, organization, and creativity in my projects.
+Back-end focused developer passionate about turning ideas into clean, functional, and well-structured interfaces. I also work with Python and C, always aiming to combine logic, organization, and creativity in my projects.
 
 ## Technologies
 

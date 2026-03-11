@@ -8,8 +8,7 @@ Front-end focused developer passionate about turning ideas into clean, functiona
 
 ## Technologies
 
-Front-end: HTML, CSS, JavaScript
-Back-end / Scripting: Python, C
+Back-end / Scripting with Python, SQL and C
 
 ---
 

@@ -2,22 +2,22 @@
 
 ---
 
-# Hi, I’m Sanjuro Dev
+# hi, i’m sanjuro-dev
 
-Fullstack developer passionate about turning ideas into clean, functional, and well-structured interfaces.
+fullstack developer passionate about turning ideas into clean, functional, and well-structured interfaces.
 
-## Technologies
+## technologies
 
-[![Minhas Tecnologias](https://skillicons.dev/icons?i=py,django,js,html,css,c,mysql,linux)](https://skillicons.dev)
-
-
-## Contact
-Email: [anpgigo@gmail.com](mailto:anpgigo@gmail.com)
+[![technologies](https://skillicons.dev/icons?i=py,django,js,html,css,c,mysql,linux)](https://skillicons.dev)
 
 
-## About Me
+## contact
+e-mail: [anpgigo@gmail.com](mailto:anpgigo@gmail.com)
 
-I enjoy exploring different languages, testing new ideas, and continuously improving as a developer. For me, programming is about solving problems and building meaningful experiences.
+
+## about mee
+
+i enjoy exploring different languages, testing new ideas, and continuously improving as a developer. For me, programming is about solving problems and building meaningful experiences.
 
 
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/78e67172-8951-49ef-91b1-f60f15e31274)

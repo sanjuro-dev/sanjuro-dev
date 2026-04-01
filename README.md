@@ -8,7 +8,13 @@ Fullstack developer passionate about turning ideas into clean, functional, and w
 
 ## Technologies
 
-[![Minhas Tecnologias](https://skillicons.dev/icons?i=py,django,js,html,css,c,mysql,linux)](https://skillicons.dev)
+### Front-End
+
+[![Front-End](https://skillicons.dev/icons?i=py,django,c,mysql,linux)](https://skillicons.dev)
+
+### Back-End
+
+[![Front-End](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
 

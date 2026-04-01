@@ -20,6 +20,5 @@ Email: [anpgigo@gmail.com](mailto:anpgigo@gmail.com)
 I enjoy exploring different languages, testing new ideas, and continuously improving as a developer. For me, programming is about solving problems and building meaningful experiences.
 
 
--->
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/78e67172-8951-49ef-91b1-f60f15e31274)
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">

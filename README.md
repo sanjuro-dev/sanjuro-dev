@@ -4,7 +4,7 @@
 
 # Hi, I’m sanjuro-dev
 
-fullstack developer passionate about turning ideas into clean, functional, and well-structured interfaces.
+Fullstack developer passionate about turning ideas into clean, functional, and well-structured interfaces.
 
 ## Technologies
 
@@ -17,7 +17,7 @@ E-mail: [anpgigo@gmail.com](mailto:anpgigo@gmail.com)
 
 ## About Me
 
-i enjoy exploring different languages, testing new ideas, and continuously improving as a developer. For me, programming is about solving problems and building meaningful experiences.
+I enjoy exploring different languages, testing new ideas, and continuously improving as a developer. For me, programming is about solving problems and building meaningful experiences.
 
 
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/78e67172-8951-49ef-91b1-f60f15e31274)

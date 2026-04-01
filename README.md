@@ -2,20 +2,20 @@
 
 ---
 
-# hi, i’m sanjuro-dev
+# Hi, I’m sanjuro-dev
 
 fullstack developer passionate about turning ideas into clean, functional, and well-structured interfaces.
 
-## technologies
+## Technologies
 
 [![technologies](https://skillicons.dev/icons?i=py,django,js,html,css,c,mysql,linux)](https://skillicons.dev)
 
 
-## contact
-e-mail: [anpgigo@gmail.com](mailto:anpgigo@gmail.com)
+## Contact
+E-mail: [anpgigo@gmail.com](mailto:anpgigo@gmail.com)
 
 
-## about me
+## About Me
 
 i enjoy exploring different languages, testing new ideas, and continuously improving as a developer. For me, programming is about solving problems and building meaningful experiences.
 

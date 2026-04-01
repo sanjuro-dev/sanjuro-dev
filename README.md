@@ -15,7 +15,7 @@ fullstack developer passionate about turning ideas into clean, functional, and w
 e-mail: [anpgigo@gmail.com](mailto:anpgigo@gmail.com)
 
 
-## about mee
+## about me
 
 i enjoy exploring different languages, testing new ideas, and continuously improving as a developer. For me, programming is about solving problems and building meaningful experiences.
 
